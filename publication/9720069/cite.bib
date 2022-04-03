@@ -1,0 +1,15 @@
+@article{9720069,
+ abstract = {Bayesian neural networks (BayesNNs) have demonstrated their advantages in various safety-critical applications, such as autonomous driving or healthcare, due to their ability to capture and represent model uncertainty. However, standard BayesNNs require to be repeatedly run because of Monte Carlo sampling to quantify their uncertainty, which puts a burden on their real-world hardware performance. To address this performance issue, this paper systematically exploits the extensive structured sparsity and redundant computation in BayesNNs. Different from the unstructured or structured sparsity existing in standard convolutional NNs, the structured sparsity of BayesNNs is introduced by Monte Carlo Dropout and its associated sampling required during uncertainty estimation and prediction, which can be exploited through both algorithmic and hardware optimizations. We first classify the observed sparsity patterns into three categories: dropout sparsity, layer sparsity and sample sparsity. On the algorithmic side, a framework is proposed to automatically explore these three sparsity categories without sacrificing algorithmic performance. We demonstrated that structured sparsity can be exploited to accelerate CPU designs by up to 49 times, and GPU designs by up to 40 times. On the hardware side, a novel hardware architecture is proposed to accelerate BayesNNs, which achieves a high hardware performance using the runtime adaptable hardware engines and the intelligent skipping support. Upon implementing the proposed hardware design on an FPGA, our experiments demonstrated that the algorithm-optimized BayesNNs can achieve up to 56 times speedup when compared with unoptimized Bayesian nets. Comparing with the optimized GPU implementation, our FPGA design achieved up to 7.6 times speedup and up to 39.3 times higher energy efficiency},
+ author = {Fan, Hongxiang and Ferianc, Martin and Que, Zhiqiang and Niu, Xinyu and Rodrigues, Miguel and Luk, Wayne},
+ doi = {10.1109/TPDS.2022.3153682},
+ issn = {1558-2183},
+ journal = {IEEE Transactions on Parallel and Distributed Systems},
+ keywords = {},
+ month = {},
+ number = {},
+ pages = {1-1},
+ title = {Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations},
+ volume = {},
+ year = {2022}
+}
+

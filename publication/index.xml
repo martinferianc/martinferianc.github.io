@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Martin Ferianc</title>
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 18:19:23 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,131 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations</title>
+      <link>https://example.com/publication/9720069/</link>
+      <pubDate>Sun, 03 Apr 2022 18:19:23 +0000</pubDate>
+      <guid>https://example.com/publication/9720069/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA-based Acceleration for Bayesian Convolutional Neural Networks</title>
+      <link>https://example.com/publication/9743481/</link>
+      <pubDate>Sun, 03 Apr 2022 18:19:23 +0000</pubDate>
+      <guid>https://example.com/publication/9743481/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator</title>
+      <link>https://example.com/publication/9712541/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/9712541/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Performance FPGA-based Accelerator for Bayesian Neural Networks</title>
+      <link>https://example.com/publication/9586137/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/9586137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Bayesian Recurrent Neural Networks on an FPGA-based Accelerator</title>
+      <link>https://example.com/publication/9609847/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/9609847/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ComBiNet: Compact Convolutional Bayesian Neural Network for Image Segmentation</title>
+      <link>https://example.com/publication/fpt2018/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fpt2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Full-Stack Acceleration of Deep Convolutional Neural Networks on FPGAs</title>
+      <link>https://example.com/publication/liu-2021-toward/</link>
+      <pubDate>Mon, 01 Feb 2021 18:21:49 +0000</pubDate>
+      <guid>https://example.com/publication/liu-2021-toward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ComBiNet: Compact Convolutional Bayesian Neural Network for Image Segmentation</title>
+      <link>https://example.com/publication/10-1007-978-3-030-86365-4-39/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10-1007-978-3-030-86365-4-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Performance Estimation for Design Space Exploration for Convolutional Neural Network Accelerators</title>
+      <link>https://example.com/publication/ferianc-2021-improving/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ferianc-2021-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Causal Inference for Data-free Structured Pruning</title>
+      <link>https://example.com/publication/ferianc-2021-causal/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ferianc-2021-causal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VINNAS: Variational Inference-based Neural Network Architecture Search</title>
+      <link>https://example.com/publication/ferianc-2021-vinnas/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ferianc-2021-vinnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing FPGA-Based CNN Accelerator Using Differentiable Neural Architecture Search</title>
+      <link>https://example.com/publication/fan-2020-optimizing/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fan-2020-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Performance Estimation for FPGA-Based Accelerators for Convolutional Neural Networks</title>
+      <link>https://example.com/publication/10-1007-978-3-030-44534-8-1/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/10-1007-978-3-030-44534-8-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Block Floating-Point Quantization for Convolutional Neural Networks on FPGA</title>
+      <link>https://example.com/publication/fan-2019-static/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fan-2019-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F-E3D: FPGA-based Acceleration of an Efficient 3D Convolutional Neural Network for Human Action Recognition</title>
+      <link>https://example.com/publication/fan-2019-f/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fan-2019-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA</title>
+      <link>https://example.com/publication/fan-2018-real/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fan-2018-real/</guid>
+      <description></description>
     </item>
     
   </channel>
