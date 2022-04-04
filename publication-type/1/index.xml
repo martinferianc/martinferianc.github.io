@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Martin Ferianc</title>
-    <link>https://example.com/publication-type/1/</link>
-      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://martinferianc.github.io/publication-type/1/</link>
+      <atom:link href="https://martinferianc.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://example.com/publication-type/1/</link>
+      <link>https://martinferianc.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>Algorithm and Hardware Co-design for Reconfigurable CNN Accelerator</title>
-      <link>https://example.com/publication/9712541/</link>
+      <link>https://martinferianc.github.io/publication/9712541/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/9712541/</guid>
+      <guid>https://martinferianc.github.io/publication/9712541/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Performance FPGA-based Accelerator for Bayesian Neural Networks</title>
-      <link>https://example.com/publication/9586137/</link>
+      <link>https://martinferianc.github.io/publication/9586137/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/9586137/</guid>
+      <guid>https://martinferianc.github.io/publication/9586137/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing Bayesian Recurrent Neural Networks on an FPGA-based Accelerator</title>
-      <link>https://example.com/publication/9609847/</link>
+      <link>https://martinferianc.github.io/publication/9609847/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/9609847/</guid>
+      <guid>https://martinferianc.github.io/publication/9609847/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ComBiNet: Compact Convolutional Bayesian Neural Network for Image Segmentation</title>
-      <link>https://example.com/publication/fpt2018/</link>
+      <link>https://martinferianc.github.io/publication/fpt2018/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fpt2018/</guid>
+      <guid>https://martinferianc.github.io/publication/fpt2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ComBiNet: Compact Convolutional Bayesian Neural Network for Image Segmentation</title>
-      <link>https://example.com/publication/10-1007-978-3-030-86365-4-39/</link>
+      <link>https://martinferianc.github.io/publication/10-1007-978-3-030-86365-4-39/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1007-978-3-030-86365-4-39/</guid>
+      <guid>https://martinferianc.github.io/publication/10-1007-978-3-030-86365-4-39/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimizing FPGA-Based CNN Accelerator Using Differentiable Neural Architecture Search</title>
-      <link>https://example.com/publication/fan-2020-optimizing/</link>
+      <link>https://martinferianc.github.io/publication/fan-2020-optimizing/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fan-2020-optimizing/</guid>
+      <guid>https://martinferianc.github.io/publication/fan-2020-optimizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Performance Estimation for FPGA-Based Accelerators for Convolutional Neural Networks</title>
-      <link>https://example.com/publication/10-1007-978-3-030-44534-8-1/</link>
+      <link>https://martinferianc.github.io/publication/10-1007-978-3-030-44534-8-1/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1007-978-3-030-44534-8-1/</guid>
+      <guid>https://martinferianc.github.io/publication/10-1007-978-3-030-44534-8-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Block Floating-Point Quantization for Convolutional Neural Networks on FPGA</title>
-      <link>https://example.com/publication/fan-2019-static/</link>
+      <link>https://martinferianc.github.io/publication/fan-2019-static/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fan-2019-static/</guid>
+      <guid>https://martinferianc.github.io/publication/fan-2019-static/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F-E3D: FPGA-based Acceleration of an Efficient 3D Convolutional Neural Network for Human Action Recognition</title>
-      <link>https://example.com/publication/fan-2019-f/</link>
+      <link>https://martinferianc.github.io/publication/fan-2019-f/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fan-2019-f/</guid>
+      <guid>https://martinferianc.github.io/publication/fan-2019-f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Real-Time Object Detection Accelerator with Compressed SSDLite on FPGA</title>
-      <link>https://example.com/publication/fan-2018-real/</link>
+      <link>https://martinferianc.github.io/publication/fan-2018-real/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fan-2018-real/</guid>
+      <guid>https://martinferianc.github.io/publication/fan-2018-real/</guid>
       <description></description>
     </item>
     
