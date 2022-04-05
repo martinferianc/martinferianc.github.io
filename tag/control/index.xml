@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/control/</link>
+      <atom:link href="https://martinferianc.github.io/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Control</title>
+      <link>https://martinferianc.github.io/tag/control/</link>
+    </image>
+    
+    <item>
+      <title>Active and Passive Air Recuperation</title>
+      <link>https://martinferianc.github.io/project/project_1/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_1/</guid>
+      <description>&lt;p&gt;Domestic heating has always been problematic. Indoor climate control had to be established to maintain comfort and prevent the spread of disease. In the late 20th Century, we began to ask ourselves about energy efficiency. What was the cost of maintaining this comfort and health? Instead of finding the one solution to solve our energy needs, what about if we looked closer, and at the energy we already have?&lt;/p&gt;
+&lt;p&gt;Then I thought, “what about Energy Recuperation?”&lt;/p&gt;
+&lt;p&gt;I constructed a unique, thermoelectric heat pump that was able to recycle the energy in the warm air escaping from a building into fresh air being drawn in. The device consisted of passive and active components, controlled by an embedded system built upon the Arduino platform. I also developed the connectivity aspects and successfully deployed the system.&lt;/p&gt;
+&lt;p&gt;While in high-school, I won a gold medal at The International Sustainable World Energy, Engineering, and Environment Project Olympiad (I-SWEEEP) in Houston, Texas with this project. I also applied for, and was awarded a national patent for the device. This was the first time I was working with embedded devices- completely individually. In addition to all the technical skills that I acquired through building multiple prototypes, I learned a lot about project planning and how to present my ideas to a wider audience.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

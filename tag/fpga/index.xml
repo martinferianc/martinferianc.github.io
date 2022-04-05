@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FPGA | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/fpga/</link>
+      <atom:link href="https://martinferianc.github.io/tag/fpga/index.xml" rel="self" type="application/rss+xml" />
+    <description>FPGA</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>FPGA</title>
+      <link>https://martinferianc.github.io/tag/fpga/</link>
+    </image>
+    
+    <item>
+      <title>FPGA Marker Detection</title>
+      <link>https://martinferianc.github.io/project/project_3/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_3/</guid>
+      <description>&lt;p&gt;Novel ways to interact with computer systems, especially through motion capture and tracking, is becoming increasingly important. From information navigation to game play and even authentication, it is now more than just an idea from a James Bond movie. To continue to pursue more natural interaction, there is now a real need to develop dedicated, power efficient, embedded hardware that is streamlined for the task at hand.&lt;/p&gt;
+&lt;p&gt;This strive towards smarter ways to interact with a computer system formed the basis of my first-year project at Imperial College London. Alongside Alexander T. Luisi and George Punter, we developed a hardware accelerated background-subtraction algorithm, with statistical point prediction to track and act upon a user’s motion. We also developed and demonstrated a marker-based approach to highlight alternative methods to track motion using Field-Programmable Gate Arrays (FPGAs).&lt;/p&gt;
+&lt;p&gt;This project was an excellent showcase of the power of FPGAs for real-world applications. I gained a great amount of insight into High-Level Synthesis (HLS) tools as well as the design of complex digital circuitry. I also learned about Digital-to-Analogue Converters (DACs) and Analogue-to-Digital Converters (ADCs) to be able to simultaneously control music according to the the data received from a camera module.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FPGA Marker Detection</title>
+      <link>https://martinferianc.github.io/project/project_7/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_7/</guid>
+      <description>&lt;p&gt;Novel ways to interact with computer systems, especially through motion capture and tracking, is becoming increasingly important. From information navigation to game play and even authentication, it is now more than just an idea from a James Bond movie. To continue to pursue more natural interaction, there is now a real need to develop dedicated, power efficient, embedded hardware that is streamlined for the task at hand.&lt;/p&gt;
+&lt;p&gt;This strive towards smarter ways to interact with a computer system formed the basis of my first-year project at Imperial College London. Alongside Alexander T. Luisi and George Punter, we developed a hardware accelerated background-subtraction algorithm, with statistical point prediction to track and act upon a user’s motion. We also developed and demonstrated a marker-based approach to highlight alternative methods to track motion using Field-Programmable Gate Arrays (FPGAs).&lt;/p&gt;
+&lt;p&gt;This project was an excellent showcase of the power of FPGAs for real-world applications. I gained a great amount of insight into High-Level Synthesis (HLS) tools as well as the design of complex digital circuitry. I also learned about Digital-to-Analogue Converters (DACs) and Analogue-to-Digital Converters (ADCs) to be able to simultaneously control music according to the the data received from a camera module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

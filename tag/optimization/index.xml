@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/optimization/</link>
+      <atom:link href="https://martinferianc.github.io/tag/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimization</title>
+      <link>https://martinferianc.github.io/tag/optimization/</link>
+    </image>
+    
+    <item>
+      <title>ZSD Toolbox</title>
+      <link>https://martinferianc.github.io/project/project_4/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_4/</guid>
+      <description>&lt;p&gt;Západoslovenská Distribučná a.s. (ZSD) is the major electricity distribution company in the western part of Slovakia. More than one million households depend on ZSD for their electricity, and so to ensure that everyone stays connected to the grid, ZSD collects data by means of Smart Meters, deployed throughout western Slovakia. Data collection is nothing without data analytics and processing, and this needs to be done for each and every customer.&lt;/p&gt;
+&lt;p&gt;These smart meters lacked support in the ZSD’s software stack, meaning that swathes of customer data had to be stored and processed manually, costing time and money. Upon my entry to the company as an intern, I was tasked to develop a software toolbox in Java to process and format this data so that it could be imported into an existing database.&lt;/p&gt;
+&lt;p&gt;The project was a success, and is still relied upon today- a great achievement considering that this was my first internship in a corporate environment. I learned a great deal about how to interact with other software developers and the platform’s target user base, as well as how a department functions within the wider company. ZSD’s CEO Andrej Juris summary of my internship best describes the impact of my work, “it will help our company in many ways to streamline work processes and thus contribute to significant savings in cost and time.”&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

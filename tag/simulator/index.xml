@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulator | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/simulator/</link>
+      <atom:link href="https://martinferianc.github.io/tag/simulator/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simulator</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Simulator</title>
+      <link>https://martinferianc.github.io/tag/simulator/</link>
+    </image>
+    
+    <item>
+      <title>CPU Simulator/Compiler</title>
+      <link>https://martinferianc.github.io/project/project_6/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_6/</guid>
+      <description>&lt;p&gt;One part of the EIE second year Computer Architecture course was to develop, in C++, a CPU Simulator, based on the MIPS1 chip architecture. This virtual CPU was built in tandem with an automatic verification platform designed to exercise its capabilities. The deliverable had emphasis on rigorous memory management, data format encoding, including endianness as well as simulating exceptions and branch handling. The CPU and the verification platform followed a strictly defined Application Programming Interface (API) to make them portable and sustainable for potential future uses. It also enabled for my colleagues and me to test our work against each other’s frameworks, to ensure that our solutions were as rigorous as possible.&lt;/p&gt;
+&lt;p&gt;Reflecting on this coursework, it was a tremendously useful exercise that taught me in greater detail about memory management in C++ and improved my general programming skills. It also solidified my understanding of basic processor architectures, particularly Reduced Instruction Set Architectures. You can try my work for yourself at: &lt;a href=&#34;https://github.com/martinferianc/CPUSimulator-EIE2&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Later in the course, I developed a compiler that took C89 code and compiled it down to the MIPS1 Instruction set. The output of this compiler would also be simulated using QEMU but could be ported to the CPU simulator. Once again, this compiler can be found at: &lt;a href=&#34;https://github.com/martinferianc/C90Compiler-EIE2&#34;&gt;Link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

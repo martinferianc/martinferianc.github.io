@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/python/</link>
+      <atom:link href="https://martinferianc.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://martinferianc.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Concussion Prevention</title>
+      <link>https://martinferianc.github.io/project/project_5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_5/</guid>
+      <description>&lt;p&gt;With concussions being reported as one of the most frequent injuries in Ice Hockey, and renewed efforts to better understand Traumatic Brain Injuries (TBI), there is demand to enhance identification of a potential injury. Studies have shown that NHL players experience an average of 1.8 concussions every 1000 hours of play and almost double that for juniors, with 12% reporting a head injury. Of these injuries sustained, over half may go unreported, demonstrating that concussions are a regular occurrence across all leagues.&lt;/p&gt;
+&lt;p&gt;Working with Owen Harcombe, Alexander T. Luisi and Alexander Montgomerie-Corcoran, we developed a prototype Internet of Things product, that sits inside a player’s helmet to detect and track impacts while they are on the ice. The embedded device incorporates a gyro and accelerometer to measure these forces, and uses a WiFi enabled microcontroller to report the data back to a central server. The data is then processed and delivered to the user via an intuitive web application, making it accessible across mobile and desktop. We employed machine learning to better interpret the sensor data, and I added a unique touch by using a K-means algorithm to filter the impacts reported by the sensors, alleviating the need for long sensor calibration.&lt;/p&gt;
+&lt;p&gt;Another part of the coursework was to develop a marketing and business strategy for the prototype product. Having always been on the engineering side of product development, this was an entirely new experience, and one that I found very rewarding, as well as a skill that I would like to develop further. You can see our concept demonstration here: &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt; &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/QVr7ECA3h2E&#34; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

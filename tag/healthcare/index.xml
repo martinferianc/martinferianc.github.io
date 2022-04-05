@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare | Martin Ferianc</title>
+    <link>https://martinferianc.github.io/tag/healthcare/</link>
+      <atom:link href="https://martinferianc.github.io/tag/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <description>Healthcare</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Healthcare</title>
+      <link>https://martinferianc.github.io/tag/healthcare/</link>
+    </image>
+    
+    <item>
+      <title>Concussion Prevention</title>
+      <link>https://martinferianc.github.io/project/project_5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_5/</guid>
+      <description>&lt;p&gt;With concussions being reported as one of the most frequent injuries in Ice Hockey, and renewed efforts to better understand Traumatic Brain Injuries (TBI), there is demand to enhance identification of a potential injury. Studies have shown that NHL players experience an average of 1.8 concussions every 1000 hours of play and almost double that for juniors, with 12% reporting a head injury. Of these injuries sustained, over half may go unreported, demonstrating that concussions are a regular occurrence across all leagues.&lt;/p&gt;
+&lt;p&gt;Working with Owen Harcombe, Alexander T. Luisi and Alexander Montgomerie-Corcoran, we developed a prototype Internet of Things product, that sits inside a player’s helmet to detect and track impacts while they are on the ice. The embedded device incorporates a gyro and accelerometer to measure these forces, and uses a WiFi enabled microcontroller to report the data back to a central server. The data is then processed and delivered to the user via an intuitive web application, making it accessible across mobile and desktop. We employed machine learning to better interpret the sensor data, and I added a unique touch by using a K-means algorithm to filter the impacts reported by the sensors, alleviating the need for long sensor calibration.&lt;/p&gt;
+&lt;p&gt;Another part of the coursework was to develop a marketing and business strategy for the prototype product. Having always been on the engineering side of product development, this was an entirely new experience, and one that I found very rewarding, as well as a skill that I would like to develop further. You can see our concept demonstration here: &lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt; &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/QVr7ECA3h2E&#34; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>wells</title>
+      <link>https://martinferianc.github.io/project/project_2/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/project/project_2/</guid>
+      <description>&lt;p&gt;A healthy lifestyle should include a daily hydration routine. But, let’s be honest, in a hyper-connected world dominated by notifications, work and family life, how good are we actually at keeping track of how much water we’ve had to drink during the day? It’s a natural reflex to drink water only when thirsty, but this is not enough. In fact, doctors have shown that forgetting to stay hydrated during the day can result in reduced concentration, dizziness and fatigue, with more serious consequences of dehydration following.&lt;/p&gt;
+&lt;p&gt;Recognizing these symptoms ourselves during busy days in College, a few of my friends and I began Wells. We developed the wellsCap, a ‘smart cap’ that would fit on a regular PET bottle, transforming it into a smart device that measures daily water intake. It securely synchronizes with an application that records and subsequently determines the ideal daily water intake based on a number of personal factors, tailoring intake specifically to an individual.&lt;/p&gt;
+&lt;p&gt;I constructed a unique, thermoelectric heat pump that was able to recycle the energy in the warm air escaping from a building into fresh air being drawn in. The device consisted of passive and active components, controlled by an embedded system built upon the Arduino platform. I also developed the connectivity aspects and successfully deployed the system.&lt;/p&gt;
+&lt;p&gt;My role in the team was as the hardware engineer, responsible for product prototyping and the measurement system. I was also in charge of driving the team forward, driving our idea forward from beyond just paper. We were recognized for our efforts, coming first place at the CISCO Switch-Up Challenge in London in 2016. After a series of individual projects during high school, this experience taught me how to work in a mixed discipline team, in order to achieve the best results.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
