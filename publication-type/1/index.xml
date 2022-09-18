@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations</title>
+      <link>https://martinferianc.github.io/publication/fan-2022-enabling/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/fan-2022-enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Performance FPGA-based Accelerator for Bayesian Neural Networks</title>
       <link>https://martinferianc.github.io/publication/9586137/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
