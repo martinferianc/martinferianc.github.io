@@ -5,12 +5,20 @@
     <link>https://martinferianc.github.io/publication-type/2/</link>
       <atom:link href="https://martinferianc.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 18:19:23 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://martinferianc.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Navigating Noise: A Study of How Noise Influences Generalisation and Calibration of Neural Networks</title>
+      <link>https://martinferianc.github.io/publication/ferianc-2024-navigating/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/ferianc-2024-navigating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerating Bayesian Neural Networks via Algorithmic and Hardware Optimizations</title>
