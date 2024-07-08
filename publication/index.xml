@@ -5,12 +5,28 @@
     <link>https://martinferianc.github.io/publication/</link>
       <atom:link href="https://martinferianc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://martinferianc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Smart Laser Sintering: Deep Learning-Powered Powder Bed Fusion 3D Printing in Precision Medicine</title>
+      <link>https://martinferianc.github.io/publication/abdalla-2024124440/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/abdalla-2024124440/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based MPC with uncertainty estimation for resilient microgrid energy management</title>
+      <link>https://martinferianc.github.io/publication/casagrande-2024-learning/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/casagrande-2024-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Navigating Noise: A Study of How Noise Influences Generalisation and Calibration of Neural Networks</title>

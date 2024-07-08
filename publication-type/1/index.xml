@@ -5,12 +5,20 @@
     <link>https://martinferianc.github.io/publication-type/1/</link>
       <atom:link href="https://martinferianc.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martinferianc.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Learning-based MPC with uncertainty estimation for resilient microgrid energy management</title>
+      <link>https://martinferianc.github.io/publication/casagrande-2024-learning/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/casagrande-2024-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Online Learning Method for Microgrid Energy Management Control</title>
