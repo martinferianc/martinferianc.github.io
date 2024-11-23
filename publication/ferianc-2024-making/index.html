@@ -64,10 +64,11 @@
   
     
   
-  <meta name="description" content="AI Research Engineer" />
+  <meta name="description" content="Neural networks (NNs) have become powerful tools due to their predictive accuracy. However, NNs&#39; real-world applicability depends on accuracy and the alignment between confidence and accuracy, known as confidence calibration. Bayesian NNs (BNNs) and NN ensembles achieve good confidence calibration but are computationally expensive. In contrast, pointwise NNs are computationally efficient but poorly calibrated. Addressing these issues, this thesis proposes methods to enhance confidence calibration while maintaining or improving computational efficiency. For users preferring pointwise NNs, we propose methodology for regularising the NNs&#39; training by using single or multiple artificial noises to improve confidence calibration and accuracy relative to standard training up to 12% without additional operations at runtime. For users able to modify the NN architecture, we propose the Single Architecture Ensemble (SAE) framework, which generalises multi-input and multi-exit architectures to embed multiple predictors into a single NN, emulating an ensemble, maintaining or improving confidence calibration and accuracy while reducing the number of compute operations or parameters by 1.5 to 3.7 times. For users who already trained an NN ensemble, we propose knowledge distillation to transfer the ensemble&#39;s predictive distribution to a single NN, marginally improving confidence calibration and accuracy, while halving the number of parameters or compute operations. We proposed uniform quantisation for BNNs, and benchmarked its impact on confidence calibration of pointwise NNs and BNNs, showing that e.g. 8-bit quantisation does not harm confidence calibration, but it reduces the memory footprint by 4 times in comparison to 32-bit floating-point precision. Lastly, we proposed an optimisation framework and a Dropout block to enable BNNs on existing field-programmable gate array-based accelerators, improving their inference latency or energy efficiency 2 to 100 times and algorithmic performance across tasks. This thesis presents methods to reduce NNs&#39; computational costs while maintaining or improving their algorithmic performance, making confidence-calibrated NNs practical in real-world applications.
+" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://martinferianc.github.io/publication_types/" />
+  <link rel="alternate" hreflang="en-us" href="https://martinferianc.github.io/publication/ferianc-2024-making/" />
 
   
   
@@ -274,8 +275,6 @@
   
 
   
-    <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Martin Ferianc" />
-  
 
   
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -284,7 +283,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://martinferianc.github.io/publication_types/" />
+  <link rel="canonical" href="https://martinferianc.github.io/publication/ferianc-2024-making/" />
 
   
   
@@ -310,33 +309,81 @@
     <meta property="twitter:creator" content="@martinferianc" />
   
   <meta property="og:site_name" content="Martin Ferianc" />
-  <meta property="og:url" content="https://martinferianc.github.io/publication_types/" />
-  <meta property="og:title" content="Publication_types | Martin Ferianc" />
-  <meta property="og:description" content="AI Research Engineer" /><meta property="og:image" content="https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:url" content="https://martinferianc.github.io/publication/ferianc-2024-making/" />
+  <meta property="og:title" content="Making Neural Networks Confidence-Calibrated and Practical | Martin Ferianc" />
+  <meta property="og:description" content="Neural networks (NNs) have become powerful tools due to their predictive accuracy. However, NNs&#39; real-world applicability depends on accuracy and the alignment between confidence and accuracy, known as confidence calibration. Bayesian NNs (BNNs) and NN ensembles achieve good confidence calibration but are computationally expensive. In contrast, pointwise NNs are computationally efficient but poorly calibrated. Addressing these issues, this thesis proposes methods to enhance confidence calibration while maintaining or improving computational efficiency. For users preferring pointwise NNs, we propose methodology for regularising the NNs&#39; training by using single or multiple artificial noises to improve confidence calibration and accuracy relative to standard training up to 12% without additional operations at runtime. For users able to modify the NN architecture, we propose the Single Architecture Ensemble (SAE) framework, which generalises multi-input and multi-exit architectures to embed multiple predictors into a single NN, emulating an ensemble, maintaining or improving confidence calibration and accuracy while reducing the number of compute operations or parameters by 1.5 to 3.7 times. For users who already trained an NN ensemble, we propose knowledge distillation to transfer the ensemble&#39;s predictive distribution to a single NN, marginally improving confidence calibration and accuracy, while halving the number of parameters or compute operations. We proposed uniform quantisation for BNNs, and benchmarked its impact on confidence calibration of pointwise NNs and BNNs, showing that e.g. 8-bit quantisation does not harm confidence calibration, but it reduces the memory footprint by 4 times in comparison to 32-bit floating-point precision. Lastly, we proposed an optimisation framework and a Dropout block to enable BNNs on existing field-programmable gate array-based accelerators, improving their inference latency or energy efficiency 2 to 100 times and algorithmic performance across tasks. This thesis presents methods to reduce NNs&#39; computational costs while maintaining or improving their algorithmic performance, making confidence-calibrated NNs practical in real-world applications.
+" /><meta property="og:image" content="https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2024-11-21T00:00:00&#43;00:00" />
+      <meta
+        property="article:published_time"
+        content="2024-11-23T14:14:52&#43;00:00"
+      />
     
+    <meta property="article:modified_time" content="2024-07-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://martinferianc.github.io/publication/ferianc-2024-making/"
+  },
+  "headline": "Making Neural Networks Confidence-Calibrated and Practical",
+  
+  "datePublished": "2024-11-23T14:14:52Z",
+  "dateModified": "2024-07-08T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Martin Ferianc"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Martin Ferianc",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Neural networks (NNs) have become powerful tools due to their predictive accuracy. However, NNs' real-world applicability depends on accuracy and the alignment between confidence and accuracy, known as confidence calibration. Bayesian NNs (BNNs) and NN ensembles achieve good confidence calibration but are computationally expensive. In contrast, pointwise NNs are computationally efficient but poorly calibrated. Addressing these issues, this thesis proposes methods to enhance confidence calibration while maintaining or improving computational efficiency. For users preferring pointwise NNs, we propose methodology for regularising the NNs' training by using single or multiple artificial noises to improve confidence calibration and accuracy relative to standard training up to 12% without additional operations at runtime. For users able to modify the NN architecture, we propose the Single Architecture Ensemble (SAE) framework, which generalises multi-input and multi-exit architectures to embed multiple predictors into a single NN, emulating an ensemble, maintaining or improving confidence calibration and accuracy while reducing the number of compute operations or parameters by 1.5 to 3.7 times. For users who already trained an NN ensemble, we propose knowledge distillation to transfer the ensemble's predictive distribution to a single NN, marginally improving confidence calibration and accuracy, while halving the number of parameters or compute operations. We proposed uniform quantisation for BNNs, and benchmarked its impact on confidence calibration of pointwise NNs and BNNs, showing that e.g. 8-bit quantisation does not harm confidence calibration, but it reduces the memory footprint by 4 times in comparison to 32-bit floating-point precision. Lastly, we proposed an optimisation framework and a Dropout block to enable BNNs on existing field-programmable gate array-based accelerators, improving their inference latency or energy efficiency 2 to 100 times and algorithmic performance across tasks. This thesis presents methods to reduce NNs' computational costs while maintaining or improving their algorithmic performance, making confidence-calibrated NNs practical in real-world applications.\n"
+}
+</script>
+
+  
+
+  
+
   
 
   
 
 
 
-  
-
-  
 
 
-
-
-
-  <title>Publication_types | Martin Ferianc</title>
+  <title>Making Neural Networks Confidence-Calibrated and Practical | Martin Ferianc</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="9bc541dab61d8e901da4ae2ab231bfb1" >
 
   
   
@@ -720,6 +767,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -728,58 +786,28 @@
 
   
   
+  
+<div class="article-container pt-3">
+  <h1>Making Neural Networks Confidence-Calibrated and Practical</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Publication_types</h1>
-
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication-type/2/" >2</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
 
 
 <div class="article-metadata">
 
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Martin Ferianc</span>
+  </div>
   
   
 
@@ -789,7 +817,7 @@
     
       
     
-    Nov 21, 2024
+    July, 2024
   </span>
   
 
@@ -807,24 +835,14 @@
 
 </div>
 
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
     
 
 
 
 
+<div class="btn-links mb-3">
+  
+  
 
 
 
@@ -833,218 +851,119 @@
 
 
 
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication-type/3/" >3</a>
-    </div>
-
+  
     
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 8, 2024
-  </span>
-  
 
-  
 
-  
+<a class="btn btn-outline-primary btn-page-header" href="https://discovery.ucl.ac.uk/id/eprint/10194306/" target="_blank" rel="noopener">
+  PDF
+</a>
 
-  
-  
-  
-  
 
-  
-  
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/ferianc-2024-making/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
-      
-    </div>
 
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
+  
 </div>
 
-  
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Neural networks (NNs) have become powerful tools due to their predictive accuracy. However, NNs&rsquo; real-world applicability depends on accuracy and the alignment between confidence and accuracy, known as confidence calibration. Bayesian NNs (BNNs) and NN ensembles achieve good confidence calibration but are computationally expensive. In contrast, pointwise NNs are computationally efficient but poorly calibrated. Addressing these issues, this thesis proposes methods to enhance confidence calibration while maintaining or improving computational efficiency. For users preferring pointwise NNs, we propose methodology for regularising the NNs&rsquo; training by using single or multiple artificial noises to improve confidence calibration and accuracy relative to standard training up to 12% without additional operations at runtime. For users able to modify the NN architecture, we propose the Single Architecture Ensemble (SAE) framework, which generalises multi-input and multi-exit architectures to embed multiple predictors into a single NN, emulating an ensemble, maintaining or improving confidence calibration and accuracy while reducing the number of compute operations or parameters by 1.5 to 3.7 times. For users who already trained an NN ensemble, we propose knowledge distillation to transfer the ensemble&rsquo;s predictive distribution to a single NN, marginally improving confidence calibration and accuracy, while halving the number of parameters or compute operations. We proposed uniform quantisation for BNNs, and benchmarked its impact on confidence calibration of pointwise NNs and BNNs, showing that e.g. 8-bit quantisation does not harm confidence calibration, but it reduces the memory footprint by 4 times in comparison to 32-bit floating-point precision. Lastly, we proposed an optimisation framework and a Dropout block to enable BNNs on existing field-programmable gate array-based accelerators, improving their inference latency or energy efficiency 2 to 100 times and algorithmic performance across tasks. This thesis presents methods to reduce NNs&rsquo; computational costs while maintaining or improving their algorithmic performance, making confidence-calibrated NNs practical in real-world applications.</p>
     
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication-type/1/" >1</a>
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#3">
+              Preprint
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
 
     
 
-    <div class="stream-meta article-metadata">
+    <div class="space-below"></div>
 
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 1, 2024
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
+    <div class="article-style"></div>
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication-type/0/" >0</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 19, 2022
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-
-  
-
 </div>
   </div>
 
