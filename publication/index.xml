@@ -5,12 +5,21 @@
     <link>https://martinferianc.github.io/publication/</link>
       <atom:link href="https://martinferianc.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://martinferianc.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede’s Cultural Dimensions</title>
+      <link>https://martinferianc.github.io/publication/masoud-2025-cultural/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/masoud-2025-cultural/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Online End-to-End Learning-Based Predictive Control for Microgrid Energy Management</title>
@@ -50,6 +59,33 @@
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://martinferianc.github.io/publication/ferianc-2024-navigating/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Large language models surpass human experts in predicting neuroscience results</title>
+      <link>https://martinferianc.github.io/publication/luo-2024-large/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/luo-2024-large/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LLM Alignment Using Soft Prompt Tuning: The Case of Cultural Alignment</title>
+      <link>https://martinferianc.github.io/publication/masoud-2024-llm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/masoud-2024-llm/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAE: Single Architecture Ensemble Neural Networks</title>
+      <link>https://martinferianc.github.io/publication/ferianc-2024-bmvc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/ferianc-2024-bmvc/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
