@@ -5,12 +5,20 @@
     <link>https://martinferianc.github.io/</link>
       <atom:link href="https://martinferianc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Ferianc</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martinferianc.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Martin Ferianc</title>
       <link>https://martinferianc.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Novel Semi-Automated Pipeline for Optimizing 3D-Printed Drug Formulations</title>
+      <link>https://martinferianc.github.io/publication/abdalla-20250515/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://martinferianc.github.io/publication/abdalla-20250515/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede’s Cultural Dimensions</title>
